@@ -1,3 +1,3 @@
 ﻿TẠO CÁI NÀY ĐỂ MỌI NGƯỜI NHẬN THÔNG BÁO
  =======================================
- NHỚ VÀO LINK CHÍNH XÁC CỦA TRƯỜNG ĐỂ XEM NHA TRỜI T.T
+Chỉ dùng để nhắc nhanh, vui lòng kiểm tra link gốc để xác nhận thông tin chính thức.
