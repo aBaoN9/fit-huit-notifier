@@ -31,6 +31,12 @@
       "title": "Thông báo về việc đăng ký học phần học kỳ I năm học 2026-2027 hệ Đại học",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-dang-ky-hoc-phan-hoc-ky-i-nam-hoc-2026-2027-he-dai-hoc"
     },
+    "1d71fb71f04b44f899a86fc49ea5007a8f76a49997a921c6a0fc9b515edd0c42": {
+      "date": "09/06/2026",
+      "first_seen_at": "2026-06-14T10:22:20.897610+00:00",
+      "title": "Thông báo Seminar - Tự động hóa và kiểm định trong phát triển phần mềm",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-seminar-tu-dong-hoa-va-kiem-dinh-trong-phat-trien-phan-mem"
+    },
     "290b02526eca438cd2d3141594a083f4f92e85069f0a0532f192e7474893d7fd": {
       "date": "",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -224,5 +230,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-06-14T06:36:37.221119+00:00"
+  "updated_at": "2026-06-14T10:22:20.897652+00:00"
 }
