@@ -31,6 +31,12 @@
       "title": "Thông báo về việc đăng ký học phần học kỳ I năm học 2026-2027 hệ Đại học",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-dang-ky-hoc-phan-hoc-ky-i-nam-hoc-2026-2027-he-dai-hoc"
     },
+    "1bf96efcbc1fee8e4301cbeac86560775366c83814a27a904717e017ec6ba841": {
+      "date": "19/06/2026",
+      "first_seen_at": "2026-06-19T15:47:45.504771+00:00",
+      "title": "Thông báo Tổ chức cuộc thi có chủ đề \"Đấu Trường Giải Thuật\" - năm 2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-to-chuc-cuoc-thi-co-chu-de-quotdau-truong-giai-thuatquot-nam-2026"
+    },
     "1d71fb71f04b44f899a86fc49ea5007a8f76a49997a921c6a0fc9b515edd0c42": {
       "date": "09/06/2026",
       "first_seen_at": "2026-06-14T10:22:20.897610+00:00",
@@ -157,6 +163,12 @@
       "title": "THÔNG BÁO V/V NỘP BÁO CÁO ĐỒ ÁN CHUYÊN NGÀNH (2TC) NGÀNH KHDL HKII NĂM HỌC 2025-2026",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-vv-nop-bao-cao-do-an-chuyen-nganh-2tc-nganh-khdl-hkii-nam-hoc-2025-2026"
     },
+    "9d37bbebbc29be4b5339536557dc0dc9d15a4f70a857cc86a2a898df1d4ddb39": {
+      "date": "18/06/2026",
+      "first_seen_at": "2026-06-19T15:47:44.855621+00:00",
+      "title": "THÔNG BÁO V/v Mở lớp học phần HK1 2026-2027",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-vv-mo-lop-hoc-phan-hk1-2026-2027"
+    },
     "abf6cc0b2a865d71200a49d9e948634b13b3f711200b2a1aeca94dd28b449df1": {
       "date": "",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -260,5 +272,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-06-19T12:02:41.777188+00:00"
+  "updated_at": "2026-06-19T15:47:45.504797+00:00"
 }
