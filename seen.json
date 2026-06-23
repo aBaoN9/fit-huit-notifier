@@ -1,6 +1,12 @@
 {
   "bootstrapped": true,
   "seen": {
+    "02f8bae72d7d222dab820db3c7b6c04c1601a969d495c603602f724e26ebdffd": {
+      "date": "23/06/2026",
+      "first_seen_at": "2026-06-23T05:45:56.258554+00:00",
+      "title": "THÔNG BÁO KHẨN: SINH VIÊN KLCN, KLKS CHƯA KÝ XÁC NHẬN ĐIỂM",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-khan-sinh-vien-klcn-klks-chua-ky-xac-nhan-diem"
+    },
     "063f0aff74b62e6ba9edd9d820ae01c8142618e3f1f4fdb78b0e95a2c32044a6": {
       "date": "",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -272,5 +278,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-06-23T01:29:19.344638+00:00"
+  "updated_at": "2026-06-23T05:45:56.258601+00:00"
 }
