@@ -127,6 +127,12 @@
       "title": "Hoạt động Đoàn",
       "url": "https://fit.huit.edu.vn/doan.thanh.nien"
     },
+    "6c09e233fe9cb2615d1a296e6c686a2f249232982be275e8e1798ba185972a61": {
+      "date": "06/07/2026",
+      "first_seen_at": "2026-07-06T16:16:46.741783+00:00",
+      "title": "Thông báo về việc tham gia lớp Trọng điểm cho KHóa 16DHTH",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-tham-gia-lop-trong-diem-cho-khoa-16dhth"
+    },
     "78095634b93f5de2eca6e3ad6c372e6e6f8a938f7f64b8d22b2064c5b07c9e8a": {
       "date": "03/06/2026",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -302,5 +308,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-07-06T12:50:30.213895+00:00"
+  "updated_at": "2026-07-06T16:16:46.741825+00:00"
 }
