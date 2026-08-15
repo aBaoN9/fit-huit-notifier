@@ -91,6 +91,12 @@
       "title": "Văn bản quy định",
       "url": "https://fit.huit.edu.vn/van-ban-quy-dinh"
     },
+    "482b6d14b0631f91590c1966080fba319f76dd77358a4471eac965888d410bcc": {
+      "date": "15/08/2026",
+      "first_seen_at": "2026-08-15T04:02:30.836179+00:00",
+      "title": "Thông báo danh sách đăng ký đề tài KLCN, KLTN HKI năm học 2026-2027",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-danh-sach-dang-ky-de-tai-klcn-kltn-hki-nam-hoc-2026-2027"
+    },
     "488aef0ff320c4cfab74d7fff3958343e42ca8cc1dd0894085e0e49cf23ad455": {
       "date": "03/06/2026",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -392,5 +398,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-08-15T03:11:53.535022+00:00"
+  "updated_at": "2026-08-15T04:02:30.836227+00:00"
 }
