@@ -37,6 +37,12 @@
       "title": "Thông báo về việc đăng ký học phần học kỳ I năm học 2026-2027 hệ Đại học",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-dang-ky-hoc-phan-hoc-ky-i-nam-hoc-2026-2027-he-dai-hoc"
     },
+    "1bd7ab8624787b0e937bc861d96ac94794008262182400529d309d51f79df090": {
+      "date": "15/08/2026",
+      "first_seen_at": "2026-08-15T02:14:13.213665+00:00",
+      "title": "Thông báo kết quả xét học vụ HK2 2025-2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ket-qua-xet-hoc-vu-hk2-2025-2026"
+    },
     "1bf96efcbc1fee8e4301cbeac86560775366c83814a27a904717e017ec6ba841": {
       "date": "19/06/2026",
       "first_seen_at": "2026-06-19T15:47:45.504771+00:00",
@@ -193,6 +199,12 @@
       "title": "Thông báo Seminar: Hướng tới 6G và Lưu trữ Dữ liệu DNA",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-seminar-huong-toi-6g-va-luu-tru-du-lieu-dna"
     },
+    "8c2b8b524906afb903b281f4571b9cc1f7ef2087d42b4e899fca1877a7c3d68a": {
+      "date": "15/08/2026",
+      "first_seen_at": "2026-08-15T02:14:13.872499+00:00",
+      "title": "Tuyển sinh Thạc sĩ Công nghệ thông tin đợt 2 năm 2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/tuyen-sinh-thac-si-cong-nghe-thong-tin-dot-2-nam-2026"
+    },
     "8c433d8622c2a9f50663fd7e4c9176a657baefb841157e1f2a4f2101e9fc537d": {
       "date": "",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -270,6 +282,12 @@
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
       "title": "09 Tháng 05 Chương trình giao lưu những câu chuyện đẹp với chủ đề: \"Vượt qua nỗi sợ trong tiếng anh\"",
       "url": "https://fit.huit.edu.vn/su-kien/chuong-trinh-giao-luu-nhung-cau-chuyen-dep-voi-chu-de-quotvuot-qua-noi-so-trong-tieng-anhquot"
+    },
+    "c8b804f91c73765fbcfb587e6d0a1d68a57b97b89f99c7e56aec0168c703569a": {
+      "date": "15/08/2026",
+      "first_seen_at": "2026-08-15T02:14:12.532204+00:00",
+      "title": "Thông báo đăng ký Đồ án chuyên ngành học kỳ I năm học 2026–2027",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-dang-ky-do-an-chuyen-nganh-hoc-ky-i-nam-hoc-2026-2027"
     },
     "cd7725e859c9b7e951e3a900e39df9db63ca7de3691ff4e33e3a5e889b0c0d1b": {
       "date": "26/06/2026",
@@ -374,5 +392,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-08-15T00:57:45.685518+00:00"
+  "updated_at": "2026-08-15T02:14:13.872531+00:00"
 }
