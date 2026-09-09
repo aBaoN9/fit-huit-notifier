@@ -247,6 +247,12 @@
       "title": "Danh mục tương đương",
       "url": "https://fit.huit.edu.vn/dao-tao-ths/danh-muc-hoc-phan-tuong-duong-thay-the-trinh-do-thac-si"
     },
+    "9a2d348164023a765f886d6c91d203a70ee47036235d8795db4432965469fa01": {
+      "date": "09/09/2026",
+      "first_seen_at": "2026-09-09T05:52:05.714764+00:00",
+      "title": "[THÔNG BÁO KHẨN] VỀ VIỆC XÁC NHẬN THÔNG TIN THỰC TẬP TỐT NGHIỆP DÀNH CHO SINH VIÊN CÁC KHÓA K11, K12, K13, K14",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-khan-ve-viec-xac-nhan-thong-tin-thuc-tap-tot-nghiep-danh-cho-sinh-vien-cac-khoa-k11-k12-k13-k14"
+    },
     "9d0898fcf3a88ca2f60d008c0c3a68abda55856985fe4d3896cf5e411f61e18d": {
       "date": "29/05/2026",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -379,6 +385,12 @@
       "title": "Chương trình đào tạo các lớp",
       "url": "https://fit.huit.edu.vn/nganhan/chuong-trinh-dao-tao-cac-lop-ngan-han-2025-2026"
     },
+    "d8801d0a5f9a422f05b71aeb93c2c52947ae61fb18ea4090c6af3cdb2bf8ddad": {
+      "date": "09/09/2026",
+      "first_seen_at": "2026-09-09T05:52:05.233329+00:00",
+      "title": "THÔNG BÁO: TUYỂN SINH VIÊN HỖ TRỢ NHẬP LIỆU CHƯƠNG TRÌNH ĐÀO TẠO KHOA CÔNG NGHỆ THÔNG TIN",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-tuyen-sinh-vien-ho-tro-nhap-lieu-chuong-trinh-dao-tao-khoa-cong-nghe-thong-tin"
+    },
     "defbe6a40951fcb938a319e700d1ca80d2e1fef2e72558dec861a98a8e8fa457": {
       "date": "",
       "first_seen_at": "2026-07-07T09:34:02.601584+00:00",
@@ -464,5 +476,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-09-09T00:59:39.027561+00:00"
+  "updated_at": "2026-09-09T05:52:05.714800+00:00"
 }
