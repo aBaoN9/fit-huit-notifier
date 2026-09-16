@@ -25,6 +25,12 @@
       "title": "Thông tin hoạt động",
       "url": "https://fit.huit.edu.vn/cong-doan-khoa-cntt"
     },
+    "08c82a07432bbe13f94365a56ec534fa43c8b61769c3c1198c495edd68f97092": {
+      "date": "16/09/2026",
+      "first_seen_at": "2026-09-16T08:45:15.805035+00:00",
+      "title": "Kết quả đánh giá chuẩn đầu ra Học phần và Chương trình đào tào HK2 2025-2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/ket-qua-danh-gia-chuan-dau-ra-hoc-phan-va-chuong-trinh-dao-tao-hk2-2025-2026"
+    },
     "0c8c9fb0c001d72e1dc6d38e7b6602550dade46214421334bf38bf7f868ce0ea": {
       "date": "01/06/2026",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -500,5 +506,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-09-16T03:04:55.804328+00:00"
+  "updated_at": "2026-09-16T08:45:15.805083+00:00"
 }
