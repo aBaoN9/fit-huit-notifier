@@ -43,6 +43,12 @@
       "title": "Đào tạo ngắn hạn",
       "url": "https://fit.huit.edu.vn/nganhan"
     },
+    "14e94c2e9181ea2eb2d640fccdf05ba4fa7e0be0c0901223c63f7d0c8497c9bc": {
+      "date": "22/09/2026",
+      "first_seen_at": "2026-09-22T06:31:10.736428+00:00",
+      "title": "Thông báo khảo sát nguyện vọng đăng ký học kỳ kỹ sư dành cho sinh viên Khóa 14",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-khao-sat-nguyen-vong-dang-ky-hoc-ky-ky-su-danh-cho-sinh-vien-khoa-14"
+    },
     "19e4b1dc30f68b7766768c056c6e19c530bd76b479942ef38ace709fe99cb606": {
       "date": "28/05/2026",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -518,5 +524,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-09-22T01:24:10.431376+00:00"
+  "updated_at": "2026-09-22T06:31:10.736473+00:00"
 }
