@@ -37,6 +37,12 @@
       "title": "THÔNG BÁO ĐIỂM TỔNG HỢP THỰC TẬP ĐỢT 3 HK2",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-diem-tong-hop-thuc-tap-dot-3-hk2"
     },
+    "10d54d8f98ebdb9df1845935e7b59b0d4416678d4a25da93a23f4e1725780ee6": {
+      "date": "10/10/2026",
+      "first_seen_at": "2026-10-09T20:14:10.769444+00:00",
+      "title": "Thông báo về danh sách sinh viên dự kiến tốt nghiệp đợt Tháng 10 năm 2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-danh-sach-sinh-vien-du-kien-tot-nghiep-dot-thang-10-nam-2026-cntt"
+    },
     "12d24960cffeb7c870c2e44656b55bb6c54dc1811225e621472b1e6b66d842e1": {
       "date": "",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -523,6 +529,12 @@
       "title": "Thông báo về việc tham gia lớp Trọng điểm cho Khóa 16DHTH",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-tham-gia-lop-trong-diem-cho-khoa-16dhth"
     },
+    "f205df1dfe81c6c5078ecc482b5f4ee0a2d4fe06c563e401465a6abe6be2d9a9": {
+      "date": "07/10/2026",
+      "first_seen_at": "2026-10-09T20:14:10.200949+00:00",
+      "title": "Thông báo về điều kiện xét cấp học bổng khuyến khích học tập Học kỳ II năm học 2025-2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-dieu-kien-xet-cap-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-ii-nam-hoc-2025-2026"
+    },
     "f55fc9ef7fed5f7b5d77f24783548c7102a71b9ab1670be8e2f1ae768a0a02d5": {
       "date": "",
       "first_seen_at": "2026-06-16T22:08:37.872146+00:00",
@@ -554,5 +566,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-10-09T15:27:17.531590+00:00"
+  "updated_at": "2026-10-09T20:14:10.769520+00:00"
 }
