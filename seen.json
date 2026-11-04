@@ -61,6 +61,12 @@
       "title": "Thông báo khảo sát nguyện vọng đăng ký học kỳ kỹ sư dành cho sinh viên Khóa 14",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-khao-sat-nguyen-vong-dang-ky-hoc-ky-ky-su-danh-cho-sinh-vien-khoa-14"
     },
+    "180edb0f16a77299d4301562f75948e20c1c7a3d66bf6b78d5e069a4b507aa27": {
+      "date": "03/11/2026",
+      "first_seen_at": "2026-11-04T15:38:31.168332+00:00",
+      "title": "THÔNG BÁO: KẾ HOẠCH CHỤP HÌNH VÀ CHUẨN BỊ CHO LỄ TỐT NGHIỆP ĐỢT 2 NĂM 2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ke-hoach-chup-hinh-va-chuan-bi-cho-le-tot-nghiep-dot-2-nam-2026"
+    },
     "19e4b1dc30f68b7766768c056c6e19c530bd76b479942ef38ace709fe99cb606": {
       "date": "28/05/2026",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -276,6 +282,12 @@
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
       "title": "16 Tháng 05 Tổ chức Vòng Chung kết Cuộc thi Sinh viên nghiên cứu khoa học cấp Trường năm học 2025 - 2026",
       "url": "https://fit.huit.edu.vn/su-kien/to-chuc-vong-chung-ket-cuoc-thi-sinh-vien-nghien-cuu-khoa-hoc-cap-truong-nam-hoc-2025-2026"
+    },
+    "7df2dacd5fa69eb4e94e4d3b1adf94cd146be7b3f2f15f8842ffbdfbd310a12d": {
+      "date": "30/6/2025",
+      "first_seen_at": "2026-11-04T15:38:31.717770+00:00",
+      "title": "THÔNG BÁO Về nhu cầu hợp đồng thực hiện nhiệm vụ chuyển đổi số theo Nghị định số 173/2025/NĐ-CP ngày 30/6/2025 của Chính phủ",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-nhu-cau-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-theo-nghi-dinh-so-1732025nd-cp-ngay-3062025-cua-chinh-phu"
     },
     "807150f9b15b01b511cbe59a8a706c5d9331811c74e7e885beb2f3dcf4085d1e": {
       "date": "17/06/2026",
@@ -602,5 +614,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-11-04T07:11:35.392036+00:00"
+  "updated_at": "2026-11-04T15:38:31.717807+00:00"
 }
