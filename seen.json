@@ -391,6 +391,12 @@
       "title": "Đoàn hội",
       "url": "https://fit.huit.edu.vn/doan-hoi"
     },
+    "ac1caefa3380234be0b83df9dd46cec0961b1d575c212f6c2199863543c0ae92": {
+      "date": "15/11/2026",
+      "first_seen_at": "2026-11-15T16:45:33.408234+00:00",
+      "title": "Thông báo Triển khai đợt Thực tập đợt 3 HK2 2026-2027",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-trien-khai-dot-thuc-tap-dot-3-hk2-2026-2027"
+    },
     "b5ef425fe091355d720f59eb8539381e7ba975ac571fe3c0708ef9ef131912cc": {
       "date": "10/08/2026",
       "first_seen_at": "2026-08-10T09:56:12.550694+00:00",
@@ -626,5 +632,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-11-15T09:43:15.819823+00:00"
+  "updated_at": "2026-11-15T16:45:33.408277+00:00"
 }
