@@ -169,6 +169,12 @@
       "title": "Các công bố khoa học",
       "url": "https://fit.huit.edu.vn/nghien-cuu/cac-cong-bo-khoa-hoc"
     },
+    "4ee0044e16364078b924b4b667495100e58f7504dfe68ce61fbb76d09bf05706": {
+      "date": "19/11/2026",
+      "first_seen_at": "2026-11-19T08:36:24.740024+00:00",
+      "title": "Thông báo Tổ chức cuộc thi HUIT Data Science Challenge 2026",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-to-chuc-cuoc-thi-huit-data-science-challenge-2026"
+    },
     "502c8f2e40091832355c56a9fa3d86770bfd08f3e092a503a8d1d2baae61bddc": {
       "date": "12/08/2026",
       "first_seen_at": "2026-08-12T09:38:55.653753+00:00",
@@ -415,6 +421,12 @@
       "title": "Thông báo về việc cấp và phát Giấy chứng nhận tốt nghiệp tạm thời và Bảng điểm toàn khóa cho sinh viên được công nhận tốt nghiệp đợt Tháng 06 năm 2026",
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-cap-va-phat-giay-chung-nhan-tot-nghiep-tam-thoi-va-bang-diem-toan-khoa-cho-sinh-vien-duoc-cong-nhan-tot-nghiep-dot-thang-06-nam-2026-kcntt"
     },
+    "b7ac2919edf94dad471bf93fc4f70695e13cc09d17020de52554d9f08d454a30": {
+      "date": "19/11/2026",
+      "first_seen_at": "2026-11-19T08:36:24.120493+00:00",
+      "title": "Thông báo về việc cấp giấy xác nhận vay vốn cho sinh viên theo Quyết định số 50/2026/QĐ-TTg",
+      "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-viec-cap-giay-xac-nhan-vay-von-cho-sinh-vien-theo-quyet-dinh-so-502026qd-ttg"
+    },
     "b97e713864c667f07300ae8564456b1ef47dceb8d4ebabf261153a3445ccdcec": {
       "date": "",
       "first_seen_at": "2026-06-03T15:59:21.126668+00:00",
@@ -644,5 +656,5 @@
       "url": "https://fit.huit.edu.vn/thong-bao/thong-bao-ve-cac-dot-khao-sat-trong-hoc-ky-ii-nam-hoc-2025-2026"
     }
   },
-  "updated_at": "2026-11-18T18:58:12.218694+00:00"
+  "updated_at": "2026-11-19T08:36:24.740060+00:00"
 }
